@@ -1,0 +1,432 @@
+canonical_identifier: bkk:krp/KR6b0064/v1
+canonical_location: https://kanripo.org/bkk/KR6b0064/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 雜譬喻經
+  identifiers:
+    alt_id:
+    - T04n0207
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T04/T04n0207.xml
+    old_id: T04n0207
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6b0064_000.yaml, hash: 'sha256:f1516c2f0fb2aca15d0d83a5a60b14cbc89b103b68ecdd96a8a68e4d30f6f60a'}
+  - {seq: 1, filename: KR6b0064_001.yaml, hash: 'sha256:7c3a058949606e44f387708d9147149cba3c8c0a91ac26f0de488981e5b52b90'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6b0064_001.markers.yaml, hash: 'sha256:c2ef12a8e5af4bf812c50c70b818ab7b0fb39f60661b65551a5a0c3d54a2f701'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 12645
+  label: 雜譬喻經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-1
+    span:
+    - body
+    - 238
+    - 238
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-2
+    span:
+    - body
+    - 501
+    - 501
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-3
+    span:
+    - body
+    - 741
+    - 741
+  label: '3'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-4
+    span:
+    - body
+    - 1085
+    - 1085
+  label: '4'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-5
+    span:
+    - body
+    - 1212
+    - 1212
+  label: '5'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-6
+    span:
+    - body
+    - 1510
+    - 1510
+  label: '6'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-7
+    span:
+    - body
+    - 1788
+    - 1788
+  label: '7'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-8
+    span:
+    - body
+    - 2055
+    - 2055
+  label: '8'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-9
+    span:
+    - body
+    - 2395
+    - 2395
+  label: '9'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-10
+    span:
+    - body
+    - 3779
+    - 3779
+  label: '10'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-11
+    span:
+    - body
+    - 4141
+    - 4141
+  label: '11'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-12
+    span:
+    - body
+    - 4317
+    - 4317
+  label: '12'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-13
+    span:
+    - body
+    - 4382
+    - 4382
+  label: '13'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-14
+    span:
+    - body
+    - 4456
+    - 4456
+  label: '14'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-15
+    span:
+    - body
+    - 4618
+    - 4618
+  label: '15'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-16
+    span:
+    - body
+    - 5159
+    - 5159
+  label: '16'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-17
+    span:
+    - body
+    - 5761
+    - 5761
+  label: '17'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-18
+    span:
+    - body
+    - 6098
+    - 6098
+  label: '18'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-19
+    span:
+    - body
+    - 6261
+    - 6261
+  label: '19'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-20
+    span:
+    - body
+    - 6471
+    - 6471
+  label: '20'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-21
+    span:
+    - body
+    - 6804
+    - 6804
+  label: '21'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-22
+    span:
+    - body
+    - 7347
+    - 7347
+  label: '22'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-23
+    span:
+    - body
+    - 7490
+    - 7490
+  label: '23'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-24
+    span:
+    - body
+    - 7673
+    - 7673
+  label: '24'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-25
+    span:
+    - body
+    - 7872
+    - 7872
+  label: '25'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-26
+    span:
+    - body
+    - 8008
+    - 8008
+  label: '26'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-27
+    span:
+    - body
+    - 8203
+    - 8203
+  label: '27'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-28
+    span:
+    - body
+    - 8446
+    - 8446
+  label: '28'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-29
+    span:
+    - body
+    - 8947
+    - 8947
+  label: '29'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-30
+    span:
+    - body
+    - 9237
+    - 9237
+  label: '30'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-31
+    span:
+    - body
+    - 9533
+    - 9533
+  label: '31'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-32
+    span:
+    - body
+    - 9867
+    - 9867
+  label: '32'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-33
+    span:
+    - body
+    - 10049
+    - 10049
+  label: '33'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-34
+    span:
+    - body
+    - 10221
+    - 10221
+  label: '34'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-35
+    span:
+    - body
+    - 10569
+    - 10569
+  label: '35'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-36
+    span:
+    - body
+    - 10889
+    - 10889
+  label: '36'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-37
+    span:
+    - body
+    - 11848
+    - 11848
+  label: '37'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-38
+    span:
+    - body
+    - 11966
+    - 11966
+  label: '38'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6b0064_T_001-mulu-39
+    span:
+    - body
+    - 12164
+    - 12164
+  label: '39'
+  type: mulu
+  level: 1
+hash: sha256:2572424cce27016e2ae6d4851c78df489dcb2a7c6f33cff0cc2e18977684fda9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
